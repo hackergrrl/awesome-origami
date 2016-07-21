@@ -1,4 +1,4 @@
-# awesome origami
+# Awesome Origami
 
 These are origami or paper designs that I particularly like. Usually what makes
 them awesome is that they use paper alone and don't require adhesives to
