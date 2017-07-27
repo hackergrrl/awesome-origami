@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=H-IwYLkcpog
 
 http://www.homemade-gifts-made-easy.com/make-gift-bags.html
 
+## Computational origami video lectures from MIT
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/class-and-lecture-videos/
+
 
 # License
 
